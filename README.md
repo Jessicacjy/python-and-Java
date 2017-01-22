@@ -1,1 +1,2 @@
-# Intro-to-python-and-Java
+# MSiA 422 Intro to Python and Java
+
