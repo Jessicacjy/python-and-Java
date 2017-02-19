@@ -1,0 +1,147 @@
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+POLK,25000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+POLK,25000.0
+HOOVER,27000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+POLK,25000.0
+HOOVER,27000.0
+MONROE,30000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+POLK,25000.0
+HOOVER,27000.0
+MONROE,30000.0
+GRANT,32000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+POLK,25000.0
+HOOVER,27000.0
+MONROE,30000.0
+GRANT,32000.0
+ADAMS,34000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+POLK,25000.0
+HOOVER,27000.0
+MONROE,30000.0
+GRANT,32000.0
+ADAMS,34000.0
+ROOSEVELT,35000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+POLK,25000.0
+HOOVER,27000.0
+MONROE,30000.0
+GRANT,32000.0
+ADAMS,34000.0
+ROOSEVELT,35000.0
+HARDING,52000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+POLK,25000.0
+HOOVER,27000.0
+MONROE,30000.0
+GRANT,32000.0
+ADAMS,34000.0
+ROOSEVELT,35000.0
+HARDING,52000.0
+GARFIELD,54000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+POLK,25000.0
+HOOVER,27000.0
+MONROE,30000.0
+GRANT,32000.0
+ADAMS,34000.0
+ROOSEVELT,35000.0
+HARDING,52000.0
+GARFIELD,54000.0
+FILLMORE,56000.0
+
+==============================================
+The Employee names sorted by their salary: 
+JOHNSON,18000.0
+WASHINGTON,18000.0
+LINCOLN,22500.0
+TAFT,25000.0
+POLK,25000.0
+HOOVER,27000.0
+MONROE,30000.0
+GRANT,32000.0
+ADAMS,34000.0
+ROOSEVELT,35000.0
+HARDING,52000.0
+GARFIELD,54000.0
+FILLMORE,56000.0
+JACKSON,75000.0
